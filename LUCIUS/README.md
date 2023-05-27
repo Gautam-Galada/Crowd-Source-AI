@@ -1,8 +1,6 @@
 # LUCIUS
 ## Intelligent Wearable System for the Blind
 
-(IF YOU WOULD LIKE TO CONTRIBUTE TO THIS PROJECT THEN HIT ME UP AT galadagautam911@gmail.com)
-
 Around 12.5 Million individuals in India are visually impaired or blind, and their lives are driven by sound, smell, and touch.
 
 Although we cannot restore their vision, we can make their life easier by developing technology.
